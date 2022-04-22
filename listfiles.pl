@@ -3,7 +3,7 @@
     use strict;
     use warnings;
 
-    my $dir = '/media/rorshach/0FB01FAA129F5523/test8/temp';
+    my $dir = 'my/address';
 
     opendir(DIR, $dir) or die $!;
 
